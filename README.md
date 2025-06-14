@@ -19,16 +19,16 @@
 
 ## 🚀 デモサイト
 
-[GitHub Pages](https://your-username.github.io/modern-todo-app)
+[GitHub Pages](https://kattsuuya.github.io/claude_first_time)
 
 ## 💻 ローカル実行
 
 ```bash
 # リポジトリをクローン
-git clone https://github.com/your-username/modern-todo-app.git
+git clone https://github.com/Kattsuuya/claude_first_time.git
 
 # ディレクトリに移動
-cd modern-todo-app
+cd claude_first_time
 
 # ブラウザで開く
 open index.html
