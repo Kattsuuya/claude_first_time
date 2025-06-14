@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Todo App - Claude Code Demo</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Todo App</h1>
+        <div class="todo-input">
+            <input type="text" id="todoInput" placeholder="新しいタスクを入力...">
+            <button id="addBtn">追加</button>
+        </div>
+        <div class="todo-list">
+            <ul id="todoList"></ul>
+        </div>
+        <div class="stats">
+            <span>合計: <span id="totalCount">0</span></span>
+            <span>完了: <span id="completedCount">0</span></span>
+            <span>残り: <span id="remainingCount">0</span></span>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
